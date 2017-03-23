@@ -1,0 +1,13 @@
+ListMembersIntent Who is in the family
+ListMembersIntent list members
+ListMembersIntent list family members
+
+AMAZON.StartOverIntent start game
+AMAZON.StartOverIntent new game
+AMAZON.StartOverIntent start
+AMAZON.StartOverIntent start new game
+
+ImpersonateIntent {Member}
+ImpersonateIntent do {Member}
+ImpersonateIntent what does {Member} say
+ImpersonateIntent impersonate {Member}

@@ -1,0 +1,19 @@
+{
+  "intents": [
+    {
+      "intent": "ImpersonateIntent",
+      "slots": [
+        {
+          "name": "Member",
+          "type": "LIST_OF_FAMILY_MEMBERS"
+        }
+      ]
+    },
+    {
+      "intent": "ListMembersIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
