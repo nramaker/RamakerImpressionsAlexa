@@ -94,15 +94,15 @@ def impersonate_member(intent, session):
 	session_attributes = create_impersonate_attributes(family_member)
 
 	if (family_member == 'dad' or family_member == 'Dad'):
-		speech_output = "Does it smell like popcorn in here? By the way you're grounded."
+		speech_output = "Does it smell like popcorn in here? You all cost me too much money. By the way you're grounded."
 	elif (family_member == 'mom' or family_member == 'Mom'):
-		speech_output = "Somebody buy me some shoes and then give me a massage."
+		speech_output = "Somebody buy me some shoes and then give me a massage. Nevermind I'm about to fall zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz"
 	elif (family_member == 'grace' or family_member == 'Grace'):
-		speech_output = "Ooooh Jacob. You're so dreamy."
+		speech_output = "Ooooh Jacob. You're so dreamy. Lets send each other kissy faces on Snapchat. Smoochy smoochy smootch. Hashtag boyfriend."
 	elif (family_member == 'mason' or family_member == 'Mason'):
 		speech_output = "Breh. Get wrecked. KOBY! Get wrecked. Breh. Breh. KOBY! Breh."
 	elif (family_member == 'elise' or family_member == 'Elise'):
-		speech_output = "I can sing and dance and play the clarinet and do gymnastics and do cartwheels and I have a dog and oh I see a butterfly."
+		speech_output = "I can sing and dance and play the clarinet and do gymnastics and do cartwheels and I have a dogs and a rainbow loom and oh I see a butterfly I'm hungry can I have a snack?"
 	elif (family_member == 'cooper' or family_member == 'Cooper'):
 		speech_output = "Mom. Mom. Mom. Pet me. Mom. Mom. Mom. Mom. Pet me. Pet me. Mom."
 	elif (family_member == 'jasper' or family_member == 'Jasper'): 
